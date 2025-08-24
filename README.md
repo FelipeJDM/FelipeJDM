@@ -12,6 +12,7 @@
 |🐍Python|
 |☕Java|
 |C|
+|Javascript|
 
 ## 💻 Tecnologias e Ferramentas
 
